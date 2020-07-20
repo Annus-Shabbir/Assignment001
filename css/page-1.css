@@ -1,21 +1,21 @@
 body {
     font-size:larger;
-    border:7px double #B8B8F3;
+    border:7px double #1F363D;
     padding: 15px;
-    color: white;
+    color: whitesmoke;
     font-style: oblique;
-    background-color:#B287A3;
+    background-color:#70A9A1;
 
 }
 .bld{
     color: black;
     font-size: larger;
-    
+    text-decoration: none;
 
 
 }
 #img-2{
-    border: 4px double blue;
+    border: 4px double #1F363D;
 }
 h2{
     text-decoration: underline;

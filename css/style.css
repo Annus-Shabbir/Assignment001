@@ -1,10 +1,11 @@
+
 body {
-    background-color:#B287A3;
+    background-color:#70A9A1;
     font-size:larger;
-    border:7px double #B8B8F3;
+    border:7px double #1F363D;
     padding: 15px;
     font-style: oblique;
-    color: white;
+    color: whitesmoke;
 }
 #header{
     text-align: center;
